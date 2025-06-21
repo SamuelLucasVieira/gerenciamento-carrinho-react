@@ -112,7 +112,7 @@ para visualizar localmente a build gerada.
 
 ## Contato
 
-Projeto criado por Samuel Uso.
+Projeto criado por Samuel Lucas Vieira de Melo.
 
 Para dúvidas ou sugestões, entre em contato: samuellucasvieira.melo@gmail.com
 
